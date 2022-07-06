@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/intro-section-with-dropdown-navigation-ryaPetHE5/hub/intro-section-with-dropdown-navigation-made-using-html-and-css-13iXsFgYJv)
 - Live Site URL: [Add live site URL here](https://intro-section-new.netlify.app/)
 
 
