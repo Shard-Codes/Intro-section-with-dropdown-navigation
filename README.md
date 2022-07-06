@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]()
+- Live Site URL: [Add live site URL here](https://intro-section-new.netlify.app/)
 
 
 ### Built with
@@ -36,5 +36,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Shard Codes](https://www.your-site.com)
 - Frontend Mentor - [@Shard-Codes](https://www.frontendmentor.io/profile/Shard-Codes)
